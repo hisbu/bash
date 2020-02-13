@@ -1,1 +1,1 @@
-echo "<h1><center>Test index.html from jenkins SCM + BUILD + post build</center></h1>" > index.html
+echo "<h1><marquee>IDN Mantab</marquee></h1>" > index.html
